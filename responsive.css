@@ -1,0 +1,183 @@
+@media screen and ( max-width: 576px) {
+    .nav-main{  
+        max-width: 576px;
+        margin: 0 auto;
+    }
+    .navbar-flex{
+        width: 94%;
+        margin: 0 auto;
+    }
+    .hamburger{
+        display: block;
+        color: white;
+        font-size: 30px;
+    }
+    .nav-itmes{
+        display: none;
+    }
+    .nav-banner-flex{
+        margin-top: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .nav-banner-details{
+        width: 95%;
+    }
+    .nav-banner-pic{
+        width: 100%;
+
+    }
+    .nav-banner-pic img{
+        width: 100%;
+    }
+    .nav-banner-details h1{
+        color: white;
+        font-size: 4rem;
+    }
+    .banner-highlight-one{
+        position: absolute;
+        right: 28px;
+        top: 232px;
+    }
+    .banner-highlight-two{
+        position: absolute;
+        bottom: 107px;
+        left: 14px;
+    }
+
+
+/*  section2 starts */
+.scetion2-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    
+}
+.section2-card{
+    width: 50%;
+    text-align: center;
+}
+
+/* secition2 section ends */
+
+
+/* section3 starts */
+.section3-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.run-text {
+    width: 100%;
+}
+.run-img{
+    width: 100%;
+}
+.run-img img{
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+/* run-card section end */
+
+
+    /* BMI section starts */
+    .bmi-flex{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .bmi-chart-section {
+        width: 100%;
+    }
+    .Calculate-bmi{
+        width: 100%;
+    }
+    .bmi-input input {
+        width: 35%;
+    }
+    .gender-box{
+        width: 40%;
+    }
+    .activity-box{
+        width: 88%;
+    }
+    .bmi-headline{
+        width: 85%;
+    }
+
+    /* BMI section ends */
+
+
+    /* Yoga-section-starts */
+     .yoga-flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;  
+    }
+    .yoga-card{
+        width: 80%;
+        
+    }  
+    /* Yoga-section-ends */ 
+
+    /* Team Join section starts */
+    .team-join-flex{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .team-join-img{
+        width: 100%;
+    }
+    .team-join-text{
+        width: 100%;
+    }
+    /* Team Join section ends */  
+
+    /* team section starts */
+    .team-grid{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .team-bg{
+        width: 80%;
+    }
+    .trainer-hidden{
+        display: none;
+    }
+    /* team section ends */
+
+    /* footer section starts */
+.footer-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.footer-sec-one{
+    width: 90%;
+}
+.footer-sec-two{
+    width: 90%;
+}
+.footer-sec-three{
+    width: 90%;
+}
+.footer-line{
+    width: 90%;
+    margin: 0 auto;
+}
+    /* footer section ends */
+}
+
