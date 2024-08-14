@@ -510,8 +510,8 @@ body{
         width: 35%;
     }
     .footer-sec-one p{
-        font-size: 1rem;
-        color: rgba(255, 255, 255, 0.3);
+        font-size: 35px
+        color: rgba(255, 255, 255, 0.5);
         margin-top: 25px;
     }
     .footer-sec-two{
@@ -519,7 +519,7 @@ body{
     }
     .footer-sec-two h2{
         color: white;
-        font-size: 1.8rem;
+        font-size: 35px;
         margin-bottom: 25px;
     }
     .footer-sec-two a{
