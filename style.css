@@ -30,16 +30,17 @@ body{
     margin-top: 30px;
 }
 .logo{
-    font-size: 2.7rem;
+    font-size: 40px;
     color: #E6533C;
     font-style: italic;
+    font-weight: 800;
 }
 .nav-itmes a{
     text-decoration: none;
     color: #1B1B1B;
     margin-right: 15px;
-    color: white;
-    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
 }
 .nav-itmes{
     border: 1px solid #303131;
@@ -58,10 +59,10 @@ body{
 .hamburger{
     display: none;
 }
-/* nav bar ends here */
+/* nav bar end*/
 
 
-/* nav banner starts here */
+/* nav banner start */
 .nav-banner-flex{
     margin-top: 40px;
     display: flex;
@@ -510,10 +511,11 @@ body{
         width: 35%;
     }
     .footer-sec-one p{
-        font-size: 35px
+        font-size: 35px;
         color: rgba(255, 255, 255, 0.5);
         margin-top: 25px;
     }
+    
     .footer-sec-two{
         width: 20%;
     }
@@ -527,14 +529,17 @@ body{
         text-decoration: none;
         font-size: 1.2rem;
     }
+
     .footer-sec-three{
         width: 20%;
     }
+
     .footer-sec-three a{
         color: rgba(255, 255, 255, 0.5);
         text-decoration: none;
         font-size: 1.2rem;
     }
+
     .footer-sec-three h2{
         color: #ffffff;
         font-size: 1.8rem;
