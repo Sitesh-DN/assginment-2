@@ -7,12 +7,12 @@
         width: 94%;
         margin: 0 auto;
     }
-    .hamburger{
+    .hamburger-menu-navbr{
         display: block;
         color: white;
         font-size: 30px;
     }
-    .nav-itmes{
+    .nav-elements{
         display: none;
     }
     .nav-banner-flex{
@@ -114,6 +114,8 @@
     /* BMI section ends */
 
 
+
+
     /* Yoga-section-starts */
      .yoga-flex{
         display: flex;
@@ -126,6 +128,9 @@
         
     }  
     /* Yoga-section-ends */ 
+
+
+
 
     /* Team Join section starts */
     .team-join-flex{
@@ -144,12 +149,17 @@
     }
     /* Team Join section ends */  
 
+
+
+
     /* team section starts */
     .team-grid{
         display: grid;
         grid-template-columns: 1fr;
         gap: 20px;
     }
+
+
     .team-bg{
         width: 80%;
     }
@@ -158,6 +168,9 @@
     }
     /* team section ends */
 
+
+
+
     /* footer section starts */
 .footer-flex{
     display: flex;
@@ -165,6 +178,8 @@
     align-items: center;
     gap: 30px;
 }
+
+
 .footer-sec-one{
     width: 90%;
 }
@@ -174,6 +189,9 @@
 .footer-sec-three{
     width: 90%;
 }
+
+
+
 .footer-line{
     width: 90%;
     margin: 0 auto;
